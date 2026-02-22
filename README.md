@@ -96,7 +96,7 @@ This project is created for:
 ## 👨‍💻 Author
 
 **Your Name**
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+GitHub: [https://github.com/jeevanantham25-hub](https://github.com/jeevanantham25-hub)
 
 ---
 
